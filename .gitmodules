@@ -1,0 +1,6 @@
+[submodule "example-get-started-experiments"]
+	path = example-get-started-experiments
+	url = git@github.com:dberenbaum/example-get-started-experiments.git
+[submodule "example-get-started"]
+	path = example-get-started
+	url = git@github.com:dberenbaum/example-get-started.git
